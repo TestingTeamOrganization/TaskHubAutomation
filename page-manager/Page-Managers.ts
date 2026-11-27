@@ -1,5 +1,5 @@
 import { Page } from "@playwright/test";
-import { LoginPage } from "../page-object/menu-screens/Login";
+import { LoginPage } from "page-object/menu-screens/login";
 import { Tasks } from "../page-object/menu-screens/tasks-screen/Tasks.page"; 
 import { NavigatePages } from "page-object/navigate-page/NavigatePage";
 import { TaskReports } from "page-object/menu-screens/reports-screen/TaskReports";

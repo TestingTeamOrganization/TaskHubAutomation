@@ -1,7 +1,7 @@
 import { test } from '@playwright/test';
-import { PageManagers } from 'page-manager/Page-Manager';
+import { PageManagers } from 'page-manager/Page-Managers'; 
 import { appUrls } from 'playwright.config';
-import credentials from 'tests/fixture/test-data-management/Login.json';
+import credentials from 'tests/fixture/test-data-management/login.json';
 
 test.beforeEach(async ({ page }) => {
     await page.goto(appUrls.loginURL);

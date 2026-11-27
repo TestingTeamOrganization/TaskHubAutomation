@@ -1,6 +1,6 @@
 import { Page } from "@playwright/test";
-import { PageManagers } from "page-manager/Page-Manager";
-import credentials from "tests/fixture/test-data-management/Login.json";
+import { PageManagers } from "page-manager/Page-Managers";
+import credentials from "tests/fixture/test-data-management/login.json";
 import taskFilter from "tests/fixture/test-data-management/tasks/FilterTask.json"
 
 
