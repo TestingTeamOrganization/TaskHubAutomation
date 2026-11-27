@@ -7,8 +7,12 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+# Environment (local values / written by Jenkins); .env.example is committed
+.env
+
 # Allure
 allure-results/
 allure-report/
 .allure/
 /custom-report/
+/setup_playwright.bat/

@@ -7,6 +7,7 @@
   "keywords": [],
   "type": "commonjs",
   "devDependencies": {
+<<<<<<< HEAD
     "@playwright/test": "^1.65.1",
     "@types/node": "^26.6.5",
     "allure-playwright": "^3.15.0"
@@ -14,5 +15,14 @@
   "dependencies": {
     "@axe-core/playwright": "^4.14.1",
     "dotenv": "^18.0.10"
+=======
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5",
+    "allure-playwright": "^3.14.0"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "dotenv": "^18.0.9"
+>>>>>>> c8fc24232143234de9162ece0fce53a8de2aad98
   }
 }

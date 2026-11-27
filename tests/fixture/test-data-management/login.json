@@ -1,16 +1,16 @@
 {
     "super_admin_credentials":{
-        "company":"ASCENT",
+        "company":"TEST",
         "userName":"superadmin",
         "password":"Pass@135"
     },
     "userone_credentials":{
-        "company":"ASCENT",
+        "company":"TEST",
         "userName":"ascent_user1",
         "password":"Pass@135"
     },
     "usertwo_credentials":{
-        "company":"ASCENT",
+        "company":"TEST",
         "userName":"ascent_user2",
         "password":"Pass@135"
     }
