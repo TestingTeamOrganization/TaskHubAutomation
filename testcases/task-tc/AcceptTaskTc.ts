@@ -1,6 +1,6 @@
-import { PageManagers } from "page-manager/Page-Manager"; 
-import credentials from "tests/fixture/test-data-management/Login.json";
-import task from "tests/fixture/test-data-management/tasks/CreateTaskSingle.json";
+import { PageManagers } from "page-manager/Page-Managers"; 
+import credentials from "tests/fixture/test-data-management/login.json";
+import task from "tests/fixture/test-data-management/tasks/AcceptTaskSingle.json";
 import type { Page } from "@playwright/test";
 
 export class AcceptTaskTc {
